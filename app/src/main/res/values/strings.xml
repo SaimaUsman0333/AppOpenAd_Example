@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">AdMob App Open Example</string>
+    <string name="main_activity" translatable="false">Main Activity</string>
+    <string name="second_activity" translatable="false">Second Activity</string>
+    <string name="main_activity_text" translatable="false">
+        Leave and switch back to the app to see the ad.
+    </string>
+    <string name="more_menu" translatable="false">More</string>
+    <string name="privacy_settings" translatable="false">Privacy Settings</string>
+    <string name="splash_activity_image_text" translatable="false">Splash Activity Image</string>
+    <string name="splash_activity_text" translatable="false">AdMob App Open Example</string>
+    <string name="click_to_show_ad">Click to show Ad</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+</resources>
